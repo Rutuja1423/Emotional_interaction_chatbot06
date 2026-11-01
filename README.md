@@ -57,5 +57,8 @@ python analysis/Objective_1_NonUser_Perceptions.py
 
 ## Author
 
-- Sanman Kadam (MSc Statistics | Data Analyst)
 - Rutuja Shinde (MSc Statistics | Data Analyst)
+
+## Special Thanks
+
+- **Sanman Kadam** for his valuable assistance with coding, senior-level guidance, and mentorship throughout the project. His support and technical insights are sincerely appreciated.
