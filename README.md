@@ -55,10 +55,11 @@ streamlit run app.py
 python analysis/Objective_1_NonUser_Perceptions.py
 ```
 
-## Author
+## Authors
 
 - Rutuja Shinde (MSc Statistics | Data Analyst)
+- Sanman Kadam (MSc Statistics | Data Analyst)
 
 ## Special Thanks
 
-- **Sanman Kadam** for his valuable assistance with coding, senior-level guidance, and mentorship throughout the project. His support and technical insights are sincerely appreciated.
+- **Sanman Kadam** for his additional senior-level guidance, mentorship, and support throughout the project. His technical insights and willingness to help are sincerely appreciated.
