@@ -62,4 +62,4 @@ python analysis/Objective_1_NonUser_Perceptions.py
 
 ## Special Thanks
 
-- **Sanman Kadam** for his additional senior-level guidance, mentorship, and support throughout the project. His technical insights and willingness to help are sincerely appreciated.
+- **Sanman Kadam** for his additional guidance, mentorship and support throughout the project. His technical insights and willingness to help are sincerely appreciated.
